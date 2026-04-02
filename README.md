@@ -117,7 +117,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## 👤 Author
 
 **Tamim Haque**  
-🔗 [Your GitHub](https://github.com/TamimHq)  
 📧 tamimhaque13@gmail.com
 
 ---
