@@ -77,9 +77,6 @@ To run widget tests:
 ```bash
 flutter test
 ```
-
-> Ensure `MyApp` or entry widget is correctly defined in `main.dart` and imported in `widget_test.dart`.
-
 ---
 
 ## 📂 Project Structure
@@ -102,17 +99,7 @@ lib/
 
 ---
 
-## 🌟 Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
-
----
-
-## 📃 License
-
-[MIT](LICENSE)
-
----
 
 ## 👤 Author
 
